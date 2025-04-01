@@ -1,3 +1,5 @@
+/* Server discovery in server list 
+on th eleft side of the app*/
 #app-mount
   > div.appAsidePanelWrapper_a3002d
   > div.notAppAsidePanel_a3002d
@@ -10,6 +12,28 @@
   > ul
   > div.itemsContainer_ef3116
   > div.footer__214dc {
+  display: none;
+}
+/* Activity tab inside guilds */
+
+#app-mount
+  > div.appAsidePanelWrapper_a3002d
+  > div.notAppAsidePanel_a3002d
+  > div.app_a3002d
+  > div
+  > div.layers__960e4.layers__160d8
+  > div
+  > div
+  > div
+  > div
+  > div:nth-child(2)
+  > div
+  > div.content_f75fb0
+  > div
+  > aside
+  > div
+  > div
+  > h3:nth-child(2) {
   display: none;
 }
 #app-mount
@@ -29,6 +53,6 @@
   > aside
   > div
   > div
-  > h3:nth-child(2) {
+  > *:not([class]) {
   display: none;
 }

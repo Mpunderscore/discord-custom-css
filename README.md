@@ -1,4 +1,9 @@
-# Title
+# Remove the fucky wucky
+
+Just some css I made primarily for myself to remove things that annoy me.
+Feel free to use, modify, share etc. see the license.
+
+No, I dont have a better name for it.
 
 ## Features
 

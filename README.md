@@ -10,7 +10,7 @@ No, I dont have a better name for it.
 Removes
 
 - Discovery icon from server list
-  ![server browser]("img/server-browser.png")
+  ![server browser](img/server-browser.png)
 - ~~Activity tab from guild member list~~
   removed as it didnt work properly
 

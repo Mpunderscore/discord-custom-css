@@ -4,10 +4,10 @@
 
 Removes
 
-- Activity tab from guild member list
-  ![activity tab]("./img/activity.png")
 - Discovery icon from server list
   ![server browser]("./img/server-browser.png")
+- ~~Activity tab from guild member list~~
+  removed as it didnt work properly
 
 ## How to use
 

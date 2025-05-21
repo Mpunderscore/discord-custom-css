@@ -1,3 +1,9 @@
+# Disclaimer
+
+This repo is 95% just a joke. The remaining 5% is just me wanting to have the files available online.
+
+---
+
 # Remove the fucky wucky
 
 Just some css I made primarily for myself to remove things that annoy me.
@@ -12,9 +18,6 @@ Removes
 - Discovery icon from server list
 
 ![server browser](img/server-browser.png)
-
-- ~~Activity tab from guild member list~~
-  removed as it didnt work properly
 
 ## How to use
 

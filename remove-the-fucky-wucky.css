@@ -14,3 +14,21 @@ on th eleft side of the app*/
   > div.footer__214dc {
   display: none;
 }
+#app-mount
+  > div.appAsidePanelWrapper_a3002d
+  > div
+  > div.app_a3002d
+  > div
+  > div.layers__960e4.layers__160d8
+  > div
+  > div
+  > div
+  > div.content_c48ade
+  > div.sidebar_c48ade.theme-dark.theme-midnight.images-dark
+  > nav
+  > ul
+  > div
+  > div
+  > div:nth-child(2) {
+  display: none;
+}

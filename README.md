@@ -19,6 +19,10 @@ Removes
 
 ![server browser](img/server-browser.png)
 
+- This weird half transparent bar above text input
+
+![half transparent bar above text input](img/dont_know.png)
+
 ## How to use
 
 ### Vencord
